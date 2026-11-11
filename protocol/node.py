@@ -184,3 +184,4 @@ class IoTNode:
             header=header,
             ciphertext_hex=ciphertext_and_tag.hex()
         )
+

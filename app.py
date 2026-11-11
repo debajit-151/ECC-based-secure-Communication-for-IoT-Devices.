@@ -485,3 +485,4 @@ elif page == "📐 Mathematical Foundations (ECDLP)":
         "**Conclusion**: ECC achieves the same 128-bit security level as RSA-3072 with **~12x smaller keys**, "
         "dramatically reducing RAM, Flash, transmission latency, and battery consumption on IoT devices."
     )
+

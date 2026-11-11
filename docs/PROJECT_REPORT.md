@@ -217,3 +217,4 @@ Applied_Cryptography_Project/
 This project provides a comprehensive, mathematically rigorous, and empirically validated implementation of **ECC-based secure communication for IoT devices**. By pairing ephemeral ECDH (secp256r1) with mutual ECDSA authentication and AES-256-GCM authenticated encryption, the protocol guarantees **Confidentiality, Integrity, Authenticity, Non-Repudiation, and Perfect Forward Secrecy** while consuming only a tiny fraction of the computational, memory, and energy resources required by traditional RSA.
 
 All automated test suites (12/12 unit tests) pass with 100% success rate, validating security defenses against wiretapping, MITM, bit-flipping, and replay attacks.
+

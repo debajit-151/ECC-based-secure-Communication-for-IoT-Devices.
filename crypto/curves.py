@@ -35,3 +35,4 @@ def is_point_on_curve(x: int, y: int, params: CurveParameters = NIST_P256) -> bo
     lhs = (y * y) % params.p
     rhs = (pow(x, 3, params.p) + params.a * x + params.b) % params.p
     return lhs == rhs
+

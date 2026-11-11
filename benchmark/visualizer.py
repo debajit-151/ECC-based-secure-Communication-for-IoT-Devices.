@@ -143,3 +143,4 @@ class BenchmarkVisualizer:
         fig.savefig(out_path, dpi=200)
         plt.close(fig)
         return out_path
+

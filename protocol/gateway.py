@@ -206,3 +206,4 @@ class IoTGateway:
         })
 
         return True, payload, ack, "Packet authenticated and decrypted successfully"
+

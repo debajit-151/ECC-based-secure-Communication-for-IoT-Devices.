@@ -53,3 +53,4 @@ class ECDHManager:
         
         shared_secret = self.private_key.exchange(ec.ECDH(), peer_public_key)
         return shared_secret
+

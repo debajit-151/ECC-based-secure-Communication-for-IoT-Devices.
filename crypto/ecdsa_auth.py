@@ -125,3 +125,4 @@ class CertificateAuthority:
             return True, "Valid"
         except Exception as e:
             return False, f"Verification error: {str(e)}"
+

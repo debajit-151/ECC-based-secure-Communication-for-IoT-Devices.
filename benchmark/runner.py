@@ -195,3 +195,4 @@ class CryptoBenchmarkRunner:
             "simulated_energy_sign_uj": simulated_sign_energy_uj,
             "simulated_energy_handshake_uj": simulated_enc_energy_uj
         }
+

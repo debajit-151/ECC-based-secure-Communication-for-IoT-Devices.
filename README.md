@@ -160,3 +160,4 @@ Applied_Cryptography_Project/
 
 ## 📚 Academic Documentation
 For full mathematical derivations, group law equations, ECDLP analysis, and formal security proofs, see [PROJECT_REPORT.md](docs/PROJECT_REPORT.md).
+

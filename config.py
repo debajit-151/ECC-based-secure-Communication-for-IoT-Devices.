@@ -23,3 +23,4 @@ DEFAULT_GATEWAY_PORT = 8888
 BENCHMARK_ITERATIONS = 50
 RSA_KEY_SIZES = [2048, 3072]
 ECC_KEY_SIZE = 256  # Equivalent to RSA 3072 in security strength (128-bit security level)
+

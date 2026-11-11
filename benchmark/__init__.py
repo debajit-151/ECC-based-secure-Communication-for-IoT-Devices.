@@ -6,3 +6,4 @@ from .runner import CryptoBenchmarkRunner
 from .visualizer import BenchmarkVisualizer
 
 __all__ = ["CryptoBenchmarkRunner", "BenchmarkVisualizer"]
+

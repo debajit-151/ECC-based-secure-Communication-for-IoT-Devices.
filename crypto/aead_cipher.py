@@ -48,3 +48,4 @@ class AEADCipher:
         Raises InvalidTag if ciphertext or associated data has been tampered with.
         """
         return self.aesgcm.decrypt(iv, ciphertext_and_tag, associated_data)
+
